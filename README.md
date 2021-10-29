@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **binaydsouza1234@gmail.com**
 
-- ⚡ Fun fact **I am slow learner.**
+- ⚡ Fun fact **I am a slow learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
