@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binay Topno</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Front-End Developer from India.</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1501783/screenshots/10061463/media/a5f2c4e41b99c793d52d66a8dd71e3da.jpg" width="400" alt="coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binytech&label=Profile%20views&color=0e75b6&style=flat" alt="binytech" /> </p>
