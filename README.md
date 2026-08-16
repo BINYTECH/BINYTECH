@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Implementation.**
 
-- 📫 How to reach me **binaydsouza1234@gmail.com**
+- 📫 How to reach me **binay.topno@outlook.com**
 
 - ⚡ Fun fact **I am a slow learner.**
 
